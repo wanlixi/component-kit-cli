@@ -1,6 +1,6 @@
 {
-  "name": "@vora/touch-emulator",
-  "version": "1.2.0",
+  "name": "vora-touch-emulator",
+  "version": "1.0.0",
   "description": "Vora touch emulator",
   "main": "index.js",
   "publishConfig": {

@@ -1,6 +1,6 @@
 {
-  "name": "@vora/stylelint-config",
-  "version": "1.3.0",
+  "name": "vora-stylelint-config",
+  "version": "1.0.0",
   "description": "stylelint config of vora.",
   "main": "index.js",
   "publishConfig": {

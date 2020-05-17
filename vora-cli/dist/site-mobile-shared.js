@@ -1,10 +1,17 @@
+/*
+ * @Author: wanlixin
+ * @Date: 2020-05-10 16:43:45
+ * @LastEditors: wanlixin
+ * @LastEditTime: 2020-05-17 09:53:19
+ * @Description: 
+ */
 import Vue from 'vue';
 import PackageEntry from './package-entry';
 import './package-style';
 
-import DemoButton from '/Users/wanlixin/all/practice/vant/src/demo-button/demo/index.vue';
-import KitIndexCard from '/Users/wanlixin/all/practice/vant/src/kit-index-card/demo/index.vue';
-import KitIndexList from '/Users/wanlixin/all/practice/vant/src/kit-index-list/demo/index.vue';
+import DemoButton from '/Users/wanlixin/all/practice/vora/src/demo-button/demo/index.vue';
+import KitIndexCard from '/Users/wanlixin/all/practice/vora/src/kit-index-card/demo/index.vue';
+import KitIndexList from '/Users/wanlixin/all/practice/vora/src/kit-index-list/demo/index.vue';
 
 Vue.use(PackageEntry);
 

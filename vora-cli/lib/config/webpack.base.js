@@ -2,7 +2,7 @@
  * @Author: wanlixin
  * @Date: 2020-05-09 22:23:49
  * @LastEditors: wanlixin
- * @LastEditTime: 2020-05-17 08:49:42
+ * @LastEditTime: 2020-05-17 09:57:36
  * @Description: 
  */
 "use strict";
@@ -92,7 +92,7 @@ exports.baseConfig = {
             },
             {
                 test: /\.md$/,
-                use: [CACHE_LOADER, 'vue-loader', '@vora/markdown-loader'],
+                use: [CACHE_LOADER, 'vue-loader', 'vora-markdown-loader'],
             },
         ],
     },

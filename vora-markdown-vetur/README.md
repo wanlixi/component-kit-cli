@@ -2,7 +2,7 @@
  * @Author: wanlixin
  * @Date: 2020-05-09 22:24:25
  * @LastEditors: wanlixin
- * @LastEditTime: 2020-05-17 08:51:49
+ * @LastEditTime: 2020-05-17 10:00:21
  * @Description: 
 --> 
 # Vora Markdown Vetur
@@ -14,13 +14,13 @@
 #### NPM
 
 ```shell
-npm i @vora/markdown-vetur -D
+npm i vora-markdown-vetur -D
 ```
 
 #### YARN
 
 ```shell
-yarn add @vora/markdown-vetur --dev
+yarn add vora-markdown-vetur --dev
 ```
 
 ## API

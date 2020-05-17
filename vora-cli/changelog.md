@@ -26,7 +26,7 @@
 - build 命令支持编译 scoped 样式 
 - build 命令支持生成 WebStorm 组件定义文件 
 - clean 命令现在会移除而不是清空文件夹
-- 升级 @vora/markdown-vetur 2.0.0
+- 升级 vora-markdown-vetur 2.0.0
 
 ### v2.2.8
 
@@ -84,7 +84,7 @@
 
 `2020-01-19`
 
-- 升级 @vora/eslint-config@2.0.0
+- 升级 vora-eslint-config@2.0.0
 
 ### v2.1.8
 

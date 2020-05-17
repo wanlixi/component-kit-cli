@@ -2,7 +2,7 @@
  * @Author: wanlixin
  * @Date: 2020-05-09 22:23:50
  * @LastEditors: wanlixin
- * @LastEditTime: 2020-05-17 08:51:40
+ * @LastEditTime: 2020-05-17 09:58:30
  * @Description: 
 --> 
 # vora-markdown-loader
@@ -14,13 +14,13 @@ Simple and fast vue markdown loader, transform markdown to vue component.
 ### NPM
 
 ```shell
-npm i @vora/markdown-loader -S
+npm i vora-markdown-loader -S
 ```
 
 ### YARN
 
 ```shell
-yarn add @vora/markdown-loader
+yarn add vora-markdown-loader
 ```
 
 ## Options

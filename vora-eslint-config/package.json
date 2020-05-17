@@ -1,6 +1,6 @@
 {
-  "name": "@vora/eslint-config",
-  "version": "2.2.2",
+  "name": "vora-eslint-config",
+  "version": "1.0.0",
   "description": "eslint config of vora",
   "main": "index.js",
   "publishConfig": {
