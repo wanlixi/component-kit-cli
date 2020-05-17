@@ -1,0 +1,12 @@
+{
+  "map": {
+    "demo-button": [],
+    "kit-index-card": [],
+    "kit-index-list": []
+  },
+  "sequence": [
+    "demo-button",
+    "kit-index-card",
+    "kit-index-list"
+  ]
+}

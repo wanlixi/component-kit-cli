@@ -1,0 +1,11 @@
+{
+  "name": "@vora/touch-emulator",
+  "version": "1.2.0",
+  "description": "Vora touch emulator",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/youzan/vora/tree/dev/packages/vora-touch-emulator"
+}

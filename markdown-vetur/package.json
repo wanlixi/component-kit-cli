@@ -1,0 +1,27 @@
+{
+  "name": "@vora/markdown-vetur",
+  "version": "2.0.1",
+  "description": "simple parse markdown to vue component description for vetur auto-completion",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "repository": "https://github.com/youzan/vora/tree/dev/packages/vora-markdown-vetur",
+  "author": "zhangshuai",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "tsc",
+    "release": "npm run build && npm publish"
+  },
+  "dependencies": {
+    "fast-glob": "^3.2.2",
+    "fs-extra": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^8.1.0"
+  }
+}
