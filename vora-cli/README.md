@@ -2,7 +2,7 @@
  * @Author: wanlixin
  * @Date: 2020-05-09 22:23:49
  * @LastEditors: wanlixin
- * @LastEditTime: 2020-05-17 08:31:07
+ * @LastEditTime: 2020-05-17 10:05:08
  * @Description: 
 --> 
 # Vora Cli
@@ -71,10 +71,10 @@ yarn add @vora/cli --dev
 
 ## 详细文档
 
-- [命令](https://github.com/youzan/vora/tree/dev/packages/vora-cli/docs/commands.md)
-- [配置指南](https://github.com/youzan/vora/tree/dev/packages/vora-cli/docs/config.md)
-- [目录结构](https://github.com/youzan/vora/tree/dev/packages/vora-cli/docs/directory.md)
-- [更新日志](https://github.com/youzan/vora/tree/dev/packages/vora-cli/changelog.md)
+- [命令](https://github.com/wanlixi/vora/tree/master/vora-cli/docs/commands.md)
+- [配置指南](https://github.com/wanlixi/vora/tree/master/vora-cli/docs/config.md)
+- [目录结构](https://github.com/wanlixi/vora/tree/master/vora-cli/docs/directory.md)
+- [更新日志](https://github.com/wanlixi/vora/tree/master/vora-cli/changelog.md)
 
 ## 微信讨论群
 

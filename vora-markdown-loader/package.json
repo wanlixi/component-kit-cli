@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "Simple and fast vue markdown loader",
   "main": "src/index.js",
+  "author": "wanlixin",
   "publishConfig": {
     "access": "public"
   },
   "license": "MIT",
-  "repository": "https://github.com/youzan/vora/tree/dev/packages/vora-markdown-loader",
+  "repository": "https://github.com/wanlixi/vora/tree/master/vora-markdown-loader",
   "dependencies": {
     "front-matter": "^3.0.2",
     "highlight.js": "^9.16.2",

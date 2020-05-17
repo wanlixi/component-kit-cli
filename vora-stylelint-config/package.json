@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "stylelint config of vora.",
   "main": "index.js",
+  "author": "wanlixin",
   "publishConfig": {
     "access": "public"
   },
   "license": "MIT",
-  "repository": "https://github.com/youzan/vora/tree/dev/packages/vora-stylelint-config",
+  "repository": "https://github.com/wanlixi/vora/tree/master/vora-stylelint-config",
   "peerDependencies": {
     "stylelint": "^13.0.0"
   },

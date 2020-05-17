@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "Vora touch emulator",
   "main": "index.js",
+  "author": "wanlixin",
   "publishConfig": {
     "access": "public"
   },
   "license": "MIT",
-  "repository": "https://github.com/youzan/vora/tree/dev/packages/vora-touch-emulator"
+  "repository": "https://github.com/wanlixi/vora/tree/master/vora-touch-emulator"
 }
