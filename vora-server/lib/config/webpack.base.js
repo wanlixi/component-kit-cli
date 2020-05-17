@@ -2,7 +2,7 @@
  * @Author: wanlixin
  * @Date: 2020-05-09 22:23:49
  * @LastEditors: wanlixin
- * @LastEditTime: 2020-05-17 09:57:36
+ * @LastEditTime: 2020-05-17 10:47:31
  * @Description: 
  */
 "use strict";
@@ -55,7 +55,7 @@ exports.baseConfig = {
             },
             {
                 test: /\.(js|ts|jsx|tsx)$/,
-                exclude: /node_modules\/(?!(@vora\/cli))/,
+                exclude: /node_modules\/(?!(vora-server))/,
                 use: [CACHE_LOADER, 'babel-loader'],
             },
             {

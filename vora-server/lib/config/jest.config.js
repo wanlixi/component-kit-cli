@@ -1,3 +1,10 @@
+/*
+ * @Author: wanlixin
+ * @Date: 2020-05-09 22:23:49
+ * @LastEditors: wanlixin
+ * @LastEditTime: 2020-05-17 10:46:12
+ * @Description: 
+ */
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const path_1 = require("path");
@@ -14,7 +21,7 @@ const DEFAULT_CONFIG = {
         '\\.(vue)$': 'vue-jest',
         '\\.(js|jsx|ts|tsx)$': 'babel-jest',
     },
-    transformIgnorePatterns: ['/node_modules/(?!(@vora/cli))/'],
+    transformIgnorePatterns: ['/node_modules/(?!(vora-server))/'],
     snapshotSerializers: ['jest-serializer-vue'],
     collectCoverage: true,
     collectCoverageFrom: ['src/**/*.{js,jsx,ts,tsx,vue}', '!**/demo/**'],

@@ -2,19 +2,19 @@
  * @Author: wanlixin
  * @Date: 2020-05-09 22:23:49
  * @LastEditors: wanlixin
- * @LastEditTime: 2020-05-17 09:02:19
+ * @LastEditTime: 2020-05-17 10:45:53
  * @Description: 
  */
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const common_1 = require("@vora/cli/lib/common");
-const css_1 = require("@vora/cli/lib/common/css");
-const gen_package_entry_1 = require("@vora/cli/lib/compiler/gen-package-entry");
-const gen_package_style_1 = require("@vora/cli/lib/compiler/gen-package-style");
-const gen_site_mobile_shared_1 = require("@vora/cli/lib/compiler/gen-site-mobile-shared");
-const gen_site_desktop_shared_1 = require("@vora/cli/lib/compiler/gen-site-desktop-shared");
-const gen_style_deps_map_1 = require("@vora/cli/lib/compiler/gen-style-deps-map");
-const constant_1 = require("@vora/cli/lib/common/constant");
+const common_1 = require("vora-server/lib/common");
+const css_1 = require("vora-server/lib/common/css");
+const gen_package_entry_1 = require("vora-server/lib/compiler/gen-package-entry");
+const gen_package_style_1 = require("vora-server/lib/compiler/gen-package-style");
+const gen_site_mobile_shared_1 = require("vora-server/lib/compiler/gen-site-mobile-shared");
+const gen_site_desktop_shared_1 = require("vora-server/lib/compiler/gen-site-desktop-shared");
+const gen_style_deps_map_1 = require("vora-server/lib/compiler/gen-style-deps-map");
+const constant_1 = require("vora-server/lib/common/constant");
 const PLUGIN_NAME = 'VoraCliSitePlugin';
 async function genSiteEntry() {
     return new Promise((resolve, reject) => {

@@ -2,7 +2,7 @@
  * @Author: wanlixin
  * @Date: 2020-05-09 22:23:51
  * @LastEditors: wanlixin
- * @LastEditTime: 2020-05-17 08:52:50
+ * @LastEditTime: 2020-05-17 10:46:35
  * @Description: 
 --> 
 # Vora Touch Emulator
@@ -14,13 +14,13 @@
 #### NPM
 
 ```shell
-npm i @vora/touch-emulator -S
+npm i vora-touch-emulator -S
 ```
 
 #### YARN
 
 ```shell
-yarn add @vora/touch-emulator
+yarn add vora-touch-emulator
 ```
 
 ## 使用指南
@@ -28,11 +28,11 @@ yarn add @vora/touch-emulator
 直接在代码中引入模块即可，模块会自动完成初始化并生效
 
 ```js
-import '@vora/touch-emulator';
+import 'vora-touch-emulator';
 ```
 
 ## CDN 引入
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/@vora/touch-emulator"></script>
+<script src="https://cdn.jsdelivr.net/npm/vora-touch-emulator"></script>
 ```

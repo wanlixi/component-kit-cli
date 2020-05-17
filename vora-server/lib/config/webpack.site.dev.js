@@ -72,7 +72,7 @@ function getSiteDevBaseConfig() {
                 name: 'Vora Cli',
                 color: constant_1.GREEN,
             }),
-            new vora_cli_site_plugin_1.voraCliSitePlugin(),
+            new vora_cli_site_plugin_1.VoraCliSitePlugin(),
             new html_webpack_plugin_1.default({
                 title,
                 logo: siteConfig.logo,

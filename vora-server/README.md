@@ -2,7 +2,7 @@
  * @Author: wanlixin
  * @Date: 2020-05-09 22:23:49
  * @LastEditors: wanlixin
- * @LastEditTime: 2020-05-17 10:05:08
+ * @LastEditTime: 2020-05-17 10:45:27
  * @Description: 
 --> 
 # Vora Cli
@@ -28,10 +28,10 @@ npx create-vora-cli-app
 
 ```shell
 # 通过 npm 安装
-npm i @vora/cli -D
+npm i vora-server -D
 
 # 通过 yarn 安装
-yarn add @vora/cli --dev
+yarn add vora-server --dev
 ```
 
 安装完成后，请将以下配置添加到 package.json 文件中
@@ -57,10 +57,10 @@ yarn add @vora/cli --dev
   },
   "eslintConfig": {
     "root": true,
-    "extends": ["@vora"]
+    "extends": ["vora-eslint-config"]
   },
   "stylelint": {
-    "extends": ["@vora/stylelint-config"]
+    "extends": ["vora-stylelint-config"]
   },
   "prettier": {
     "singleQuote": true

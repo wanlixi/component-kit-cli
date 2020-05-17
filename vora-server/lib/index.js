@@ -19,7 +19,7 @@ const changelog_1 = require("./commands/changelog");
 const build_site_1 = require("./commands/build-site");
 const commit_lint_1 = require("./commands/commit-lint");
 
-commander_1.version(`@vora/cli ${package_json_1.default.version}`);
+commander_1.version(`vora-server ${package_json_1.default.version}`);
 process.env.VORA_CLI_VERSION = package_json_1.default.version;
 commander_1.command('dev')
     .description('Run webpack dev server')

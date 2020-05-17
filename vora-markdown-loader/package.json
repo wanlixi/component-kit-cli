@@ -1,6 +1,6 @@
 {
   "name": "vora-markdown-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple and fast vue markdown loader",
   "main": "src/index.js",
   "author": "wanlixin",
